@@ -1,0 +1,28 @@
+form{
+    background: rgba(252, 252, 252, 0.89);
+    border-radius: 15px;
+    border: 2px solid #636d68;
+}
+.BookSearchLabel{
+    margin-left:20px;
+    margin-top: 10px
+}
+.submitBtn{
+    margin-bottom: 10px;
+    margin-left: 20px;
+    background-color: #608773;
+    color: white;
+}
+.submitBtn:hover {
+    color: white;
+    font-size: 1.05rem;
+  }
+  
+  .submitBtn:active {
+    color: white !important;
+    font-size: 1rem;
+  }
+.form-control{
+    margin-left: 20px;
+    width: 95%
+}

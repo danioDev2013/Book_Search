@@ -1,20 +1,10 @@
-.jumbotron {
-  background-image: url("./books.png");
-  opacity: 0.75;
-  color: white;
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 450px !important;
-  width: 100%;
-  padding-top: 10;
-  text-align: center;
-  font-family: 'Merriweather', serif;
-  border-radius: 0;
-  /* margin-top: -6vh; */
+.jumbotron{
+    background-image: url("./books.png");
+    opacity: 0.75;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    padding-top: 10; 
+    text-align: center
 }
-  
-  .jumboTitle,
-  .jumboText {
-    text-shadow: 2px 3px 4px #000000;
-  }

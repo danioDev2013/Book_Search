@@ -1,18 +1,12 @@
-.footer {
-    height: 5vh;
+footer {
+    width: 100%;
+    height: 50px;
     background-color: #636D68;
-    width: 100%;
-    /* margin-top: 15vh; */
-    /* margin-bottom: 0vh !important; */
-}
-
-.wrapper {
-    width: 100%;
-    display: flex;
-    justify-content: center;
-}
-
-.builtBy {
-    padding-top: 1.2vh;
+    font-family: 'Baloo Thambi', cursive;
+    text-align: center;
     color: white;
+}
+p{
+    padding-top: 10px;
+    font-size: 20px
 }

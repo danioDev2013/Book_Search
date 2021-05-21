@@ -7,18 +7,3 @@
     color: white;
     cursor: default;
   }
-  
-  #btnSaved,
-  #btnSearch {
-    color: white;
-  }
-  
-  #btnSaved:hover,
-  #btnSearch:hover {
-    font-size: 1.05rem;
-  }
-  
-  #btnSaved:active,
-  #btnSearch:active {
-    font-size: 1rem;
-  }

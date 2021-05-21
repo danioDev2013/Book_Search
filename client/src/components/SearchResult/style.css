@@ -1,0 +1,30 @@
+.card{
+    border-radius: 10px;
+    margin-bottom: 10px;
+    background: rgba(210, 212, 212, 0.808);
+}
+
+.search-list{
+    border-radius: 15px;
+    background-color: #6087738e;
+}
+
+.saveBook {
+    border-radius: 5px;
+    margin-left: 10px;
+    background-color: rgb(46, 45, 45);
+    color: white;
+}
+
+.viewBook {
+    border-radius: 5px;
+    margin-left: 5px;
+    background-color: #9f7ec4
+}
+.list-group-item {
+    margin-bottom: 5px;
+}
+#root > div > div > div:nth-child(4) > div > div {
+    margin-bottom: 20px;
+}
+
